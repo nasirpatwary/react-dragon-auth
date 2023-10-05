@@ -10,7 +10,7 @@ const RightSide = () => {
           <button className="btn btn-outline w-full">
            <FaGoogle></FaGoogle>
             Login with google
-         </button>  
+         </button>
           <button className="btn btn-outline w-full">
            <FaGithub></FaGithub>
             Login with github

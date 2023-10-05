@@ -5,15 +5,15 @@ const New = () => {
     return (
         <div className="flex border">
           <button className="btn btn-secondary">Breaking News</button>
-          <Marquee pauseOnHover={true} speed={100}>
+          <Marquee className="bg-sky-400 text-white" pauseOnHover={true} speed={100}>
            <Link className="mr-12" to="/">
-             I can be a React component, multiple React components....
+            Hello Nasir Problem will never last forver. I can be a React component, multiple React components....
            </Link>
            <Link className="mr-12" to="/">
-             I can be a React component, multiple React components....
+           Hello Nasir Problem will never last forver. I can be a React component, multiple React components....
            </Link>
            <Link className="mr-12" to="/">
-             I can be a React component, multiple React components....
+           Hello Nasir Problem will never last forver. I can be a React component, multiple React components....
            </Link>
          </Marquee>  
         </div>
